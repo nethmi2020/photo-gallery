@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    letter-spacing: -5px;
+}
+.main{
+    margin: 10px auto;
+    width: 996px;
+}
+.main img{
+    width: 330px;
+    height: 220px;
+    float: left;
+    margin: 1px;
+}
